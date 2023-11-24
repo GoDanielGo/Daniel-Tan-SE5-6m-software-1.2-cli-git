@@ -34,7 +34,7 @@ A: True
 
 ---
 
-### Q5: The command `git commit` is used to stage untracked files.
+### Q5: The command `git commit` is used to stage untracked file
 
 A: True
 
